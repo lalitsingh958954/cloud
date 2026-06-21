@@ -70,13 +70,7 @@
 
 #####################
 
-#Type Casting
-
-i = 5
-j = "1"
-
-print("sum of i and j is", i + int(j))
-
+#
 
 
 
