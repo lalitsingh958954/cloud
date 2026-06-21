@@ -35,8 +35,8 @@
 #
 #
 # print(type(age))
-
-print("hello i am the best")
+#
+# print("hello i am the best")
 
 
 ## list exercise
@@ -71,8 +71,11 @@ print("hello i am the best")
 #####################
 
 #Type Casting
-print("hello i am the besdddt")
 
+i = 5
+j = "1"
+
+print("sum of i and j is", i + int(j))
 
 
 
