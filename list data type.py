@@ -1,4 +1,4 @@
-Type Casting 21st June python list data type
+# Type Casting 21st June python list data type
 #
 # i = 5
 # j = "1"
@@ -83,6 +83,16 @@ Type Casting 21st June python list data type
 # user_data =["pr", "reddy"," ", "123",["pr@gmail.com", "reddy@gmail.com"],"12345","Feb 2nd 2000",5]
 # user_data[4].insert(0,"new@gmail.com")  ## to update mail id at 0th place
 # print(user_data)
+
+user_data =["pr", "reddy"," ", "123",["pr@gmail.com", "reddy@gmail.com"],"12345","Feb 2nd 2000",5]
+
+for i in user_data:
+    print("inside the loop")
+    print(i)
+    print("loop completed, next iteration start")
+
+print(__file__)  #it will print the curren file path
+#C:\Users\hp\Desktop\python\list data type.py
 
 
 
